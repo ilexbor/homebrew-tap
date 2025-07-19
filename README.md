@@ -2,8 +2,6 @@
 
 This is a custom Homebrew tap containing formulas for packages developed by ilexbor.
 
----
-
 ## Installation
 
 First, add this tap to your Homebrew:
@@ -11,8 +9,6 @@ First, add this tap to your Homebrew:
 ```bash
 brew tap ilexbor/tap
 ```
-
----
 
 ## Available Packages
 
