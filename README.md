@@ -4,7 +4,7 @@ This is a custom Homebrew tap containing formulas for packages developed by ilex
 
 ## Installation
 
-First, add this tap to your Homebrew:
+Add this tap to your Homebrew:
 
 ```bash
 brew tap ilexbor/tap
@@ -12,4 +12,4 @@ brew tap ilexbor/tap
 
 ## Available Packages
 
-- **ignorium** - CLI tool for automatic .gitignore generation ([GitHub](https://github.com/ilexbor/ignorium), [pub.dev](https://pub.dev/packages/ignorium))
+- **ignorium** – CLI tool for automatic .gitignore generation ([GitHub](https://github.com/ilexbor/ignorium), [pub.dev](https://pub.dev/packages/ignorium))
